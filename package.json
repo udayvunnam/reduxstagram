@@ -55,7 +55,7 @@
         "@types/react": "^16.8.22",
         "expect": "^1.18.0",
         "expect-jsx": "^2.5.1",
-        "mocha": "^2.4.5",
+        "mocha": "^10.1.0",
         "react-addons-test-utils": "^15.0.2"
     }
 }
